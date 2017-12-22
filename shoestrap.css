@@ -1,6 +1,6 @@
 .col-1 {
   float: left;
-  width: 8.33333333%;
+  width: 8.33%;
 }
 div {
   height: 50px;
@@ -40,4 +40,28 @@ div {
 .col-6{
   float: left;
   width: 50%;
+}
+.col-7{
+  width: 58.33%;
+  float: left;
+}
+.col-8{
+  width:66.67%;
+  float: left;
+}
+.col-9{
+  float:left;
+  width:75%;
+}
+.col-10{
+  float:left;
+  width:83.34%;
+}
+.col-11{
+  float:left;
+  width:91.67%;
+}
+.col-12{
+  float:left;
+  width:100%;
 }
