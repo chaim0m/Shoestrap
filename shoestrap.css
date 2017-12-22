@@ -25,3 +25,19 @@ div {
   float:left;
   width:16.66%
 }
+.col-3{
+  float:left;
+  width: 25%;
+}
+.col-4{
+  float:left;
+  width: 33.33%
+}
+.col-5{
+  float:left;
+  width:41.67%
+}
+.col-6{
+  float: left;
+  width: 50%;
+}
