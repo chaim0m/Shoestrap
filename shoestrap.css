@@ -1,7 +1,4 @@
-.col-1 {
-  float: left;
-  width: 8.33%;
-}
+
 div {
   height: 50px;
   border: 1px solid red;
@@ -20,6 +17,28 @@ div {
   display: table;
   content: "";
   clear: both;
+}
+header{
+  height: 20px;
+  padding-top:0;
+}
+.navbar{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  display: block;
+  margin: 0;
+}
+.navbar ul, .navbar li {
+    display: inline-block;
+}
+.navbar li a {
+    line-height: 50px;
+    text-decoration: none;
+}
+.col-1 {
+  float: left;
+  width: 8.33%;
 }
 .col-2{
   float:left;
